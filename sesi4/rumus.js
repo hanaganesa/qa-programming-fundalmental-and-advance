@@ -20,3 +20,5 @@ export function kalkulator(angka1, angka2, operator) {
         return `Angka kedua tidak valid!`;
     }
 }
+
+// try git revert
