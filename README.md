@@ -11,4 +11,4 @@ Session 4:
     - Programing Advance: simple calculator with js
 
 Session 6:
-    - Postman collection of QA test with postman
+    - Postman collection of API testing
