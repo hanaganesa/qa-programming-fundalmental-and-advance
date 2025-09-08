@@ -1,13 +1,11 @@
-# Sesi5_Hana-fitria-ganesa
-Tugas sesi 5
+Welcome to my fortfolio for QA Engineer!
+This repo contain several QA tasks for my mini bootcamp with Digital Skola!
 
-List tugas sesi 2 - 4
-
-Sesi 2:
+Session 2:
     - Testing & Bugs Management
 
-Sesi 3:
+Session 3:
     - Programing Fundamental
 
-Sesi 4: 
+Session 4: 
     - Programing Advance
